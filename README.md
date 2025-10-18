@@ -5,8 +5,8 @@
 Hi! I'm James Wong, a student in the Framework-Based Software Design and Development course.
 From this course, I expect to learn how to effectively maintain and improve existing software systems to ensure their long-term quality and reliability. I also hope to understand different types of software maintenance techniques and gain practical skills in developing and managing software systems.
 
-![My Image](james_pic.jpg)
 
 ## GitHub Profile
+<img width="1016" height="1242" alt="james_pic" src="https://github.com/user-attachments/assets/c8df7eb4-8c55-45c9-a371-dbca9ddfb4a2" />
 
 You can view my personalized GitHub profile [here](https://github.com/JamesW0803).
